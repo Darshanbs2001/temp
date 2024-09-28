@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 added the file 2
+=======
+updated the file
+>>>>>>> 6da64bfb4ca4a4b6c33eebe4ac1fb43feebea9ab
